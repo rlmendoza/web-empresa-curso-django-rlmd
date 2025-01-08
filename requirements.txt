@@ -1,0 +1,3 @@
+Pipllow==10.4.0
+django==5.1.1
+django-ckeditor=6.7.1
